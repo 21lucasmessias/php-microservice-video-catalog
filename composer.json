@@ -1,0 +1,11 @@
+{
+    "name": "21lucasmessias/php-microservice-catalog-video",
+    "description": "PHP app - Catalog Video Full Cycle",
+    "authors": [
+        {
+            "name": "Lucas Messias",
+            "email": "21.lucasmessias@gmail.com"
+        }
+    ],
+    "require": {}
+}
